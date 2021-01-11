@@ -1,25 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94fe2368-86a6-4119-822f-5196ed42e20f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1mmCR3TS2ndPA87cJQJwACR9jUL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94fe2368-86a6-4119-822f-5196ed42e20f" name="Default Changelist" comment="" />
+      <created>1610089368465</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610089368465</updated>
+    </task>
+    <task id="LOCAL-00001" summary="FullStack-30Nov">
+      <created>1610089727986</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610089727986</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="FullStack-30Nov" />
+    <option name="LAST_COMMIT_MESSAGE" value="FullStack-30Nov" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="86" key="FileChooserDialogImpl" timestamp="1610089521372">
+    <state x="104" y="0" width="806" height="674" key="CommitChangelistDialog2" timestamp="1610089727047">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="86" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1610089521372" />
+    <state x="104" y="0" width="806" height="674" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1610089727047" />
+    <state x="421" y="86" key="FileChooserDialogImpl" timestamp="1610103704871">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="86" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1610103704871" />
     <state x="523" y="240" width="259" height="200" key="Github.ShareDialog" timestamp="1610089406602">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="523" y="240" width="259" height="200" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1610089406602" />
-    <state x="349" y="170" key="com.intellij.ide.util.TipDialog" timestamp="1610089372475">
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1610089793053">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="349" y="170" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1610089372475" />
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1610089793053" />
+    <state x="349" y="170" key="com.intellij.ide.util.TipDialog" timestamp="1610103691487">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="170" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1610103691487" />
   </component>
 </project>
